@@ -1,2 +1,2 @@
 # Proj2
-theme: Time machine
+theme: minima
