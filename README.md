@@ -1,2 +1,2 @@
 # Proj2
-theme: minima
+Lab 2.1
